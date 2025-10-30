@@ -1,0 +1,22 @@
+>>for the fist time configure the github in our system
+git config  --global user.name "SadhanaRajput1508"
+git config  --global user.email "sadhana221713@gmail.com"
+
+git config  --global color.ui auto
+
+
+manadatory commands:
+>> git init
+>> git remote add origin https://github.com/SadhanaRajput1508/My-Portofolio.git
+
+
+
+git pull origin main
+
+
+git status
+
+git add
+git status
+git commit .m "commit message"
+git push
